@@ -1,0 +1,2 @@
+colorscheme blacksea
+map <leader>s :execute(":vsp " . substitute(expand("%"), 'app\(.*\)\(.rb\)$', 'spec\1_spec.rb', ''))<CR>
