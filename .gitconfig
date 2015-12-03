@@ -1,5 +1,5 @@
 [push]
-	default = simple
+	default = current
 [user]
 	name = Stirling Olson
 	email = seo@foraker.com
